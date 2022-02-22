@@ -2,6 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90)
 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)](github.com/younminchan)[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF)](github.com/younminchan)[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)](github.com/younminchan)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](github.com/younminchan)[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF)](github.com/younminchan)[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF)](github.com/younminchan)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)](github.com/younminchan)
+
+
 <!--
 **younminchan/younminchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
