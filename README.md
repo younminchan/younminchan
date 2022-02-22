@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90)
 
 ⚡ TECH⚡ 
 
