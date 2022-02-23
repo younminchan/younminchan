@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younminchan&count_private=true&show_icons=true&theme=radical)](https://github.com/younminchan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younminchan)](https://github.com/younminchan)
+<!-- username=younminchan&hide=contribs,prs -->
 
 ⚡ TECH⚡ 
 
@@ -13,10 +16,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounminchan&count_bg=%23FF0000&title_bg=%23493F47&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/younminchan)
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younminchan&count_private=true&show_icons=true&theme=radical)](https://github.com/younminchan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younminchan)](https://github.com/younminchan)
-<!-- username=younminchan&hide=contribs,prs -->
 
 
 
