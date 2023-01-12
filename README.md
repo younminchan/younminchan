@@ -6,7 +6,7 @@
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=챠니의%20코딩저장소&fontSize=90) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younminchan&count_private=true&show_icons=true&theme=radical)](https://github.com/younminchan)  
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younminchan&count_private=true&show_icons=true&theme=radical)](https://github.com/younminchan)   -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younminchan)](https://github.com/younminchan) -->
 <!-- username=younminchan&hide=contribs,prs -->
